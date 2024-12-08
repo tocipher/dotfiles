@@ -9,3 +9,6 @@ normal.family = "Commit Mono Nerd Font"
 bold.family = "Commit Mono Nerd Font"
 italic.family = "Commit Mono Nerd Font"
 bold_italic.family = "Commit Mono Nerd Font"
+
+[env]
+WINIT_X11_SCALE_FACTOR = "1"
